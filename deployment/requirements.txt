@@ -1,0 +1,9 @@
+streamlit
+streamlit_option_menu
+seaborn
+pandas
+numpy
+matplotlib
+tensorflow-cpu==2.8.2
+joblib==1.2.0
+scikit-learn==1.0.2
