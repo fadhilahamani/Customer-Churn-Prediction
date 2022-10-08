@@ -1,0 +1,5 @@
+- Link url dataset:
+https://www.kaggle.com/datasets/blastchar/telco-customer-churn
+
+- Link url model deployment:
+https://telco-churn-predict-dataset.herokuapp.com/
